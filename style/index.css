@@ -1,8 +1,70 @@
 @import "common.css";
 .our{
     text-align: center;
-    margin: 73px;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+}
+.card{
+    background: #E0E0E0;
+    width: 200px;
+    text-align: center;
+    margin: 15px;
+    height: 100%;
+    display: inline-block;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.Vectors{
+    max-width: 200px;
+    height: 100%;
+}
+.vector1{
+    width: 29px;
+    margin: 29px 14px 0 69px;
+    display: inline-block;
+}
 
+.vec1{
+    width: 14px;
+    height: 100%;
+    object-fit: cover;
+}
+.Vector2{
+    width: 29px;
+    margin: 29px 1px 0 0;
+    display: inline-block;
+}
+.vec2{
+    width: 3.17px;
+    height: 100%;
+    object-fit: cover;
+}
+.vec3{
+    width: 9.22px;
+    height: auto;
+}
+.Vector3{
+    width: 29px;
+    margin: 29px 1px 0 0;
+    display: inline-block;
+}
+h1{
+    font-size:16px;
+    line-height: 20px;
+    margin: 20px 0 6px 0;
+    text-align: center;
+}
+p{
+    font-size:14px;
+    line-height: 20px;
+    text-align: center;
+    margin: 6px 0 0 0;
 }
 
 
