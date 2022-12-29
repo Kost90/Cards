@@ -1,22 +1,29 @@
 @import "common.css";
+
+.section-5{
+    padding-top: 69px;
+    padding-right: auto;
+    padding-left: auto;
+    padding-bottom: 69px;
+}
 .our{
     text-align: center;
     margin: 0 auto;
 }
-.slash{
-    margin: 0 auto;
+.border{
+    margin: 28px auto 42px;
+    height: 2px;
+    background: rgba(136, 133, 133, 0.26);
     width: 80px;
-    border-bottom-color: #333333;
-    color: #1202023d;
 }
+
 .container{
     max-width: 960px;
     margin: 0 auto;
     text-align: center;
 }
 .card{
-    background: #E0E0E0;
-    width: 200px;
+    width: 220px;
     text-align: center;
     margin: 5px;
     height: 100%;
@@ -28,43 +35,11 @@ img{
     object-fit: cover;
 }
 .Vectors{
-    max-width: 200px;
-    height: 60px;
-    margin: 17.95px;
-}
-.vector1{
-    margin: 29px 6px;
+    width: 29px;
+    margin: 29px 3px 9px;
+    padding: 1px 8px;
     display: inline-block;
-}
-
-.vec1{
-    width: 14px;
-    height: 100%;
-    object-fit: cover;
-}
-.Vector2{
-
-    margin: 29px 6px;
-    display: inline-block;
-}
-.vec2{
-    width: 3.17px;
-    height: 100%;
-    object-fit: cover;
-}
-.vec3{
-    width: 9.22px;
-    height: auto;
-}
-.Vector3{
-
-    margin: 29px 6px;
-    display: inline-block;
-}
-
-.vec4{
-    width: 13.9px;
-    height: auto;
+    background: #F5F5F5;
 }
 
 h1{
@@ -73,6 +48,7 @@ h1{
     margin: 20px 0 6px 0;
     text-align: center;
 }
+
 p{
     font-size:14px;
     text-align: center;
